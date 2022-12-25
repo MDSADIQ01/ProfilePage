@@ -69,6 +69,6 @@ while($rows=mysqli_fetch_array($result)){
 </div>
 </div>
 </br>
-<div id="footer"><p> Copyright &copy; 2022 Fresherprofiles.com </p></div>
+<div id="footer"><p> Copyright. &copy; 2022 Fresherprofiles.com </p></div>
 </body>
 </html>
